@@ -6,4 +6,4 @@
 
 #### How to use :
 
-> see `sample\main.cpp`
+> see `SuperResolution\sample\main.cpp`
